@@ -1,0 +1,4 @@
+top_passages: 8
+corpus: data/corpus.json
+eval_set: data/eval_set.json
+embed_dim: 64
